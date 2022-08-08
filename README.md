@@ -1,2 +1,2 @@
-# Begining C++
+# Beginning C++
 General Programming in C++ 
